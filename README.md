@@ -1,4 +1,5 @@
 Rīgas satiksmes simulators
+
 Autori: Alberts Druska, Matīss Kalniņš, Roberts Treize
 Pilns apraksts: https://docs.google.com/document/d/1Yfifwk9__MplxGkaBP_m3wLN-BtsixBauGORpAGZ0Tk/edit?tab=t.0
 
